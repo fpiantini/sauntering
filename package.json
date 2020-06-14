@@ -19,5 +19,8 @@
   "homepage": "https://github.com/fpiantini/sauntering#readme",
   "devDependencies": {
     "electron": "^9.0.4"
+  },
+  "dependencies": {
+    "leaflet": "^1.6.0"
   }
 }
