@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/fpiantini/sauntering/issues"
   },
-  "homepage": "https://github.com/fpiantini/sauntering#readme"
+  "homepage": "https://github.com/fpiantini/sauntering#readme",
+  "devDependencies": {
+    "electron": "^9.0.4"
+  }
 }
